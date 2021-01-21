@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Did you hear the tragedy of Darth Plagieus the wise?
 Use the left arrow to go back!
